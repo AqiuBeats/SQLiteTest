@@ -1,4 +1,4 @@
 # SQLiteTest
 OC-CoreData入门Demo
 效果展示:
-/Users/qiuruigang/Desktop/SQLiteTest.gif
+ ![image](https://github.com/AqiuBeats/SQLiteTest/SQLiteTest.gif)
